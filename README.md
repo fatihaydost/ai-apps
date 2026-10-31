@@ -1,6 +1,6 @@
 # ai-apps
 
-Yapay Zeka Uygulamaları dersi haftalık notebook'ları.
+Weekly notebooks for the AI Applications course.
 
 - Week-01: NumPy
 - Week-02: Pandas
@@ -8,4 +8,4 @@ Yapay Zeka Uygulamaları dersi haftalık notebook'ları.
 - Week-04: Linear & Logistic Regression
 - Week-05: KNN
 
-Week-05 için `creditcard.csv` boyutu yüzünden repoda yok, Kaggle'dan indirilebilir: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+`creditcard.csv` for Week-05 is not in the repo because of its size. It can be downloaded from Kaggle: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
